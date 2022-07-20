@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-
-Second project on github ;)
+First try make a game
+
